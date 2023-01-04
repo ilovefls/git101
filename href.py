@@ -5,7 +5,7 @@ import re
 from urllib.parse import urljoin
 import pandas as pd
 import time
-
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #「手っ取り早くPython3.xをダウンロードして使ってみる(Mac)！はじめてのPython」のURLを指定
 url = "https://nanpre.adg5.com/xlsx_down.php"
 
